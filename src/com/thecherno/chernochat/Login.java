@@ -106,5 +106,6 @@ public class Login extends JFrame {
 				}
 			}
 		});
+		System.out.println("sanga");
 	}
 }
