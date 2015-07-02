@@ -109,8 +109,5 @@ public class Login extends JFrame {
 		System.out.println("sanga1");
 	}
 	
-	private void method() {
-		// TODO Auto-generated method stub
-
-	}
+	
 }
