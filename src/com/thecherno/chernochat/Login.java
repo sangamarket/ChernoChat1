@@ -106,7 +106,7 @@ public class Login extends JFrame {
 				}
 			}
 		});
-		System.out.println("sanga1");
+		System.out.println("sanga1sdfgsgsgsg");
 	}
 	
 	
