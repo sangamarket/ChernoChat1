@@ -95,7 +95,7 @@ public class Login extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("sanga1");
+		System.out.println("sanga2");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
